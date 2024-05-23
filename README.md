@@ -41,7 +41,8 @@ I used the following PowerBI features:
    - I developed calculated columns and measures using DAX (Data Analysis Expressions).
    - I implemented hierarchies and role-playing dimensions.
 
-![]()
+![](Model.png)
+***
 
 ### Data Analysis and DAX
 3. **Basic DAX:**
@@ -70,12 +71,6 @@ I used the following PowerBI features:
     - Analyze and interpret data trends and patterns.
     - Create KPIs to track key performance metrics.
     - Use statistical methods to provide deeper insights.
-
-
-## Metadata
-- File Extension: .xlsx
-- Number of Rows: 307,974
-- Number of Fields: 23
 
 You can interact with the report [here](https://drive.google.com/file/d/1PyxHfCKgal2GOKPRUq3GkpdyWyK0P3in/view?usp=sharing)
 
