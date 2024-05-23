@@ -1,6 +1,6 @@
 # Pizza-Sales-Report
 
- 
+![](pizza_pics.jpg) 
 ***
 
 ## Introduction
@@ -85,9 +85,7 @@ Below is a snippet of the final dashboard in PowerBI.
 
 # Key Insight
 - Total Revenue: The dashboard shows a significant total revenue of $817,860 in 2015.
-
 - Peak Orders: Orders are highest on weekends, Friday/Saturday evenings and there are maximum orders from Month of July and January
-
 - Sales performance:
    By catogory: Classic category contributes to maximum sales and total orders.
    By size: Large size pizza contributes to maximum sales
@@ -100,7 +98,9 @@ Below is a snippet of the final dashboard in PowerBI.
    By Quantity: The Brie Carre Pizza Contributes to minimum Total Quantities.
    By Total Orders: The Brie Carre Pizza Contributes to minimum Total Orders.
 
-  
+![](Best_&_Worst_sellers.png)
+***
+
 # Recommendations
 1. Increase marketing efforts during weekends, Friday/Saturday evenings, and peak months (July and January).
 2. Promote and bundle the Classic Deluxe Pizza; consider premium pricing or signature dish promotion for Thai Chicken Pizza.
